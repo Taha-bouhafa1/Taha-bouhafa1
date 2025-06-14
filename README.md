@@ -59,6 +59,8 @@ With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy 
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" /></a> &nbsp;
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" /></a> &nbsp;
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" /></a> &nbsp;
+### Badges
+#### My GitHub Stats
 
 ### Social
 
