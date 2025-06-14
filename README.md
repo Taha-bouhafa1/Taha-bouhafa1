@@ -87,7 +87,6 @@ With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy 
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
 </picture>
 </a> &nbsp;
-
 ### Badges
 #### My GitHub Stats
 
