@@ -41,6 +41,24 @@ With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/docker-colored.svg" alt="Docker" />
 </picture></a> &nbsp;
+<!-- Added Skills -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a> &nbsp;
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" /></a> &nbsp;
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" /></a> &nbsp;
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" /></a> &nbsp;
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" /></a> &nbsp;
+<a href="https://scikit-learn.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="24" />
+</a>
+</a>
+<a href="https://chroma.tech/">
+  <img src="https://ubos.tech/wp-content/uploads/2023/11/chroma.png" alt="Chroma" height="24" />
+</a>
+
+<a href="https://spacy.io/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spaCy" /></a> &nbsp;
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" /></a> &nbsp;
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" /></a> &nbsp;
+<a href="https://keras.io/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" /></a> &nbsp;
 
 ### Social
 
