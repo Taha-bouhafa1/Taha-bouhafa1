@@ -59,45 +59,50 @@ With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy 
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" /></a> &nbsp;
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" /></a> &nbsp;
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" /></a> &nbsp;
-### Badges
-#### My GitHub Stats
-
 ### Social
 
-<a href="https://www.github.com/Taha-bouhafa1" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.stackoverflow.com/user/30802174/taha-bouhafa" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" alt="stackoverflow" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/taha-bouhafa-30567023a/" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100004548857338" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/facebook.svg" alt="facebook" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/taha_bf1/" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
-<a
-href="http://www.github.com/Taha-bouhafa1"><img src="https://github-readme-stats.vercel.app/api?username=Taha-bouhafa1&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Taha-bouhafa1's GitHub stats" /></a> <br/>
-<br/>
-<a href="http://www.github.com/Taha-bouhafa1"><img
-src="https://streak-stats.demolab.com/?user=Taha-bouhafa1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
-<br/>
-<a href="http://www.github.com/Taha-bouhafa1"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-bouhafa1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-<br/>
-<a href="https://github.com/Taha-bouhafa1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-bouhafa1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+
+<a href="https://www.github.com/Taha-bouhafa1" target="_blank">
+  <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</a>
+<a href="https://www.stackoverflow.com/user/30802174/taha-bouhafa" target="_blank">
+  <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/stackoverflow.svg" alt="stackoverflow" />
+</a>
+<a href="https://www.linkedin.com/in/taha-bouhafa-30567023a/" target="_blank">
+  <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100004548857338" target="_blank">
+  <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/facebook.svg" alt="facebook" />
+</a>
+<a href="https://www.instagram.com/taha_bf1/" target="_blank">
+  <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
+</a>
+
+</div>
+
+---
+
+###  GitHub Stats
+
+<p align="center">
+  <a href="http://www.github.com/Taha-bouhafa1">
+    <img src="https://github-readme-stats.vercel.app/api?username=Taha-bouhafa1&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Taha-bouhafa1's GitHub stats" />
+  </a>
+  <br/><br/>
+  <a href="http://www.github.com/Taha-bouhafa1">
+    <img src="https://streak-stats.demolab.com/?user=Taha-bouhafa1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  <br/><br/>
+  <a href="http://www.github.com/Taha-bouhafa1">
+    <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-bouhafa1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Taha-bouhafa1" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-bouhafa1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</p>
+
 
 #### Top Repositories
 
