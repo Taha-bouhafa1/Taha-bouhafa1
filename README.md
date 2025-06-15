@@ -102,7 +102,7 @@ With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-bouhafa1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
-![snake gif](https://github.com/Taha-bouhafa1/Taha-bouhafa1/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Taha-bouhafa1/Taha-bouhafa1/blob/output/github-snake.svg)
 
 #### Top Repositories
 
