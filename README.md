@@ -70,6 +70,7 @@ With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy 
 ![snake gif](https://github.com/Taha-bouhafa1/Taha-bouhafa1/blob/output/github-snake-dark.svg)
 #### Top Repositories
 <div><a style="margin-bottom: 10px" href="https://github.com/Taha-bouhafa1/Visual-Question-Answering-VQA-project" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Taha-bouhafa1&repo=Visual-Question-Answering-VQA-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 ### Social
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
