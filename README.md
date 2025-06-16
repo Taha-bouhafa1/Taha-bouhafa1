@@ -1,6 +1,6 @@
 # Hello 👋 I am Taha Bouhafa
 
-## AI Engineer | NLP Specialist | Data-Driven Problem Solver
+## AI Explorer | NLP & GenAI Enthusiast | Empowering Ideas with Data
 
 I’m Taha Bouhafa, a Big Data & AI Engineering student at ENSA Tétouan, passionate about Natural Language Processing (NLP), Large Language Models (LLMs), and Generative AI. I’m especially interested in how advanced language systems can be combined with external knowledge—through approaches like Retrieval-Augmented Generation (RAG)—to build more accurate, context-aware, and useful AI applications.
 
