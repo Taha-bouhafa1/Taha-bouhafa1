@@ -1,6 +1,6 @@
 # Hello 👋 I am Taha Bouhafa
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&width=435&lines=AI+Explorer+;+NLP+%26+GenAI+Enthusiast;Empowering+Ideas+with+Data)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=435&lines=AI+Explorer+;+NLP+%26+GenAI+Enthusiast;Empowering+Ideas+with+Data)](https://git.io/typing-svg)
 
 
 I’m Taha Bouhafa, a Big Data & AI Engineering student at ENSA Tétouan, passionate about Natural Language Processing (NLP), Large Language Models (LLMs), and Generative AI. I’m especially interested in how advanced language systems can be combined with external knowledge—through approaches like Retrieval-Augmented Generation (RAG)—to build more accurate, context-aware, and useful AI applications.
