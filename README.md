@@ -7,7 +7,7 @@ I’m Taha Bouhafa, a Big Data & AI Engineering student at ENSA Tétouan, passio
 
 With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy exploring deep learning techniques, fine-tuning transformer models, and staying up to date with the rapidly evolving LLM ecosystem. I’m always eager to learn, experiment, and contribute to cutting-edge solutions that bridge language, data, and intelligence.
 
-- 🌍 I'm from Tétouan,Morocco
+- 🌍 I'm from Morocco
 - 📫 Reach me at [tahabouhafa1@gmail.com](mailto:tahabouhafa1@gmail.com)
 - 🌱 I'm currently learning Retrieval-Augmented Generation (RAG) Prompt Engineering & Fine-tuning LLMs Vector Databases (e.g., FAISS, Weaviate) LangChain / LlamaIndex for building LLM apps
 - 💬 Ask me about Natural Language Processing, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and how to get started with real-world AI projects as a student.
