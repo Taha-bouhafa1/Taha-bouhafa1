@@ -3,15 +3,27 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=435&lines=AI+Explorer+;+NLP+%26+GenAI+Enthusiast;Empowering+Ideas+with+Data)](https://git.io/typing-svg)
 
 
-I’m Taha Bouhafa, a Big Data & AI Engineering student at ENSA Tétouan, passionate about Natural Language Processing (NLP), Large Language Models (LLMs), and Generative AI. I’m especially interested in how advanced language systems can be combined with external knowledge—through approaches like Retrieval-Augmented Generation (RAG)—to build more accurate, context-aware, and useful AI applications.
+I am a Big Data and AI Engineering student at ENSA Tétouan, passionate about Computer Vision, Deep Learning and Generative AI. My work focuses on building intelligent visual systems and understanding how neural networks make decisions. I love working with Vision Transformers, diffusion models such as Stable Diffusion and multimodal systems like Vision Language Models to combine perception and language understanding.
 
-With solid experience in Python, TensorFlow, PyTorch, and scikit-learn, I enjoy exploring deep learning techniques, fine-tuning transformer models, and staying up to date with the rapidly evolving LLM ecosystem. I’m always eager to learn, experiment, and contribute to cutting-edge solutions that bridge language, data, and intelligence.
+I am enthusiastic about white box deep learning research that aims for more transparent and interpretable models. I enjoy solving complex visual problems and exploring state of the art architectures in vision and generative modeling using Python, PyTorch, TensorFlow and OpenCV.
 
-- 🌍 I'm from Morocco
-- 📫 Reach me at [tahabouhafa1@gmail.com](mailto:tahabouhafa1@gmail.com)
-- 🌱 I'm currently learning Retrieval-Augmented Generation (RAG) Prompt Engineering & Fine-tuning LLMs Vector Databases (e.g., FAISS, Weaviate) LangChain / LlamaIndex for building LLM apps
-- 💬 Ask me about Natural Language Processing, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and how to get started with real-world AI projects as a student.
+🌍 Based in Morocco
 
+✉️ Contact: tahabouhafa1@gmail.com
+
+🚀 Portfolio: https://portfolio-taha-bouhafa.vercel.app/
+
+🔬 Currently learning
+
+Diffusion models and image generation
+
+Vision Language Models
+
+Interpretable and reliable neural networks
+
+Efficient training and deployment of visual models
+
+💡 Ask me about computer vision, deep learning, generative AI and student friendly research ideas
 
 
 ### Skills
