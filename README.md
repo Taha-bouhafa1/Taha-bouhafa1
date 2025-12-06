@@ -2,10 +2,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=435&lines=AI+Explorer+;+NLP+%26+GenAI+Enthusiast;Empowering+Ideas+with+Data)](https://git.io/typing-svg)
 
+I am a Big Data and AI Engineering student at ENSA Tétouan, passionate about Computer Vision, Deep Learning and Generative AI. My goal is to build intelligent visual systems that are both powerful and interpretable. I love experimenting with Vision Transformers, diffusion models such as Stable Diffusion and multimodal systems like Vision Language Models that connect perception and reasoning.
 
-I am a Big Data and AI Engineering student at ENSA Tétouan, passionate about Computer Vision, Deep Learning and Generative AI. My work focuses on building intelligent visual systems and understanding how neural networks make decisions. I love working with Vision Transformers, diffusion models such as Stable Diffusion and multimodal systems like Vision Language Models to combine perception and language understanding.
-
-I am enthusiastic about white box deep learning research that aims for more transparent and interpretable models. I enjoy solving complex visual problems and exploring state of the art architectures in vision and generative modeling using Python, PyTorch, TensorFlow and OpenCV.
+I am highly interested in research that pushes AI toward trustworthiness and scientific understanding. Topics such as white box learning, interpretability tools, improving the reasoning abilities of deep models and creating robust generative pipelines are what motivate me every day. I enjoy exploring the latest advances in visual intelligence using Python, PyTorch, TensorFlow and OpenCV.
 
 🌍 Based in Morocco
 
@@ -13,17 +12,17 @@ I am enthusiastic about white box deep learning research that aims for more tran
 
 🚀 Portfolio: https://portfolio-taha-bouhafa.vercel.app/
 
-🔬 Currently learning
+🔬 Research interests
 
-Diffusion models and image generation
+Vision Language Models and multimodal deep learning
 
-Vision Language Models
+Diffusion models and generative image pipelines
 
-Interpretable and reliable neural networks
+Interpretable and transparent neural networks
 
-Efficient training and deployment of visual models
+Efficient and scalable training for real world vision tasks
 
-💡 Ask me about computer vision, deep learning, generative AI and student friendly research ideas
+💡 Ask me about computer vision, deep learning, generative AI and how to begin with research oriented projects as a student
 
 
 ### Skills
