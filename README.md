@@ -2,11 +2,11 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=500&lines=Computer+Vision+Researcher;Deep+Learning+Enthusiast;Image+Processing+%26+Visual+Perception;Neuromorphic+Computing)](https://git.io/typing-svg)
 
-I am a Big Data and Artificial Intelligence Engineering student at ENSA Tétouan, interested in research at the intersection of Computer Vision, Deep Learning, Image Processing, and Neuromorphic Computing.
+I am an **AI Engineer** with a strong interest in research and development at the intersection of Computer Vision, Deep Learning, Image Processing, and Neuromorphic Computing.
 
-My interests focus on building intelligent visual systems capable of learning meaningful representations from complex visual data. I am particularly interested in visual perception, image understanding, multimodal learning, and computationally efficient approaches to artificial intelligence.
+My work focuses on designing, developing, and evaluating intelligent visual systems capable of learning meaningful representations from complex visual data. My interests include visual perception, image understanding, multimodal learning, Spiking Neural Networks (SNNs), and computationally efficient approaches to artificial intelligence.
 
-I enjoy exploring research problems through experimentation, implementing ideas from the literature, and studying how different models and architectures behave on challenging visual data. I am especially interested in approaches inspired by biological computation and in developing efficient and robust learning systems.
+I enjoy exploring challenging research problems through experimentation, implementing state-of-the-art methods, and investigating novel architectures. I am particularly interested in biologically inspired computation and developing efficient, robust, and intelligent systems for real-world applications.
 
 ## Research Interests
 
